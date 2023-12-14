@@ -19,4 +19,3 @@ intelligence, in a piped and micro irrigation network of irrigation system.
 •	Establishing communication between sensor node and edge device.
 •	Self- Sustainable power supply for sensor nodes.
 •	Decision making through Edge Computing.
-Note: I've uploaded a doc file for the documentation purpose of this project, soon will also publish a research paper out of this.
